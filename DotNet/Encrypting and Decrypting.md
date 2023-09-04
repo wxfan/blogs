@@ -1,8 +1,9 @@
-*** Encrypting and Decrypting ***
+## Encrypting and Decrypting ##
 
 The Encrypting and Decrypting are Two-way process to convert data from clear text to cipher text and cipher text to clear text.  The process of converting data from clear text to cipher text is called encryption and the process of converting data from cipher text to clear text is called decryption.
 
-Symmetric Encryption: also known as secret-key encryption, uses a single key to both encrypt and decrypt data. The same key is used by both the sender and the recipient. The key must be kept secret to ensure the security of the encrypted data.
+### Symmetric Encryption ###
+ also known as secret-key encryption, uses a single key to both encrypt and decrypt data. The same key is used by both the sender and the recipient. The key must be kept secret to ensure the security of the encrypted data.
 
 The most commonly used symmetric encryption algorithms are:
 
@@ -12,7 +13,8 @@ The most commonly used symmetric encryption algorithms are:
 
 3. Triple Data Encryption Standard (3DES): 3DES is a variant of DES that applies the DES algorithm three times to each data block. It provides a higher level of security than DES but is slower and less efficient.
 
-Asymmetric Encryption: also known as public-key encryption, uses a pair of keys: a public key and a private key. The public key is used to encrypt data, while the private key is used to decrypt it. The public key can be freely shared, while the private key must be kept secret.
+### Asymmetric Encryption ###
+also known as public-key encryption, uses a pair of keys: a public key and a private key. The public key is used to encrypt data, while the private key is used to decrypt it. The public key can be freely shared, while the private key must be kept secret.
 
 The most commonly used asymmetric encryption algorithms are:
 
